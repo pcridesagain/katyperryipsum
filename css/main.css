@@ -213,3 +213,13 @@ h3{
 .clearfix {
     *zoom: 1;
 }
+
+
+
+
+
+
+.check{
+    float: right;
+    padding-right: 16px;
+}
